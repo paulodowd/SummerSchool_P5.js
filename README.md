@@ -1,4 +1,4 @@
-# WOIEC Summer School
+# Summer School - Paul's Challenges
 
 ## Tools
 
