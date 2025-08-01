@@ -1,4 +1,4 @@
-# Challenge 5: A Puzzle
+# Challenge 5: A Puzzle / Foraging
 
 In this challenge, you should combine the techniques you have used in previous challenges.  
 In this challenge, you should program a robot controller to push **blue** objects out of the arena.
